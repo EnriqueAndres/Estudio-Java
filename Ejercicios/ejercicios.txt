@@ -1,0 +1,47 @@
+Nivel 1 — Variables, operadores y condicionales
+
+Calculadora básica: Pide dos números y una operación (+, -, *, /) al usuario e imprime el resultado.
+Par o impar: Lee un número y di si es par, impar, y si además es positivo o negativo.
+Mayor de tres: Dados 3 números, imprime cuál es el mayor.
+Calculadora de IMC: Pide peso y altura, calcula el IMC e imprime la categoría (bajo peso, normal, sobrepeso, obesidad).
+
+
+🔁 Nivel 2 — Bucles
+
+Tabla de multiplicar: Pide un número e imprime su tabla del 1 al 10.
+FizzBuzz: Del 1 al 100, imprime "Fizz" si es múltiplo de 3, "Buzz" si es de 5, "FizzBuzz" si es de ambos, o el número si no.
+Suma de dígitos: Dado un número entero, calcula la suma de sus dígitos.
+Número primo: Dado un número, determina si es primo o no.
+Pirámide de asteriscos: Pide un número n e imprime una pirámide de n filas con asteriscos.
+
+
+📦 Nivel 3 — Arrays
+
+Estadísticas de un array: Dado un arreglo de 10 números, calcula el mayor, menor, suma y promedio.
+Invertir un array: Sin usar métodos de librería, invierte el orden de los elementos.
+Eliminar duplicados: Dado un array con repetidos, imprime solo los valores únicos.
+Búsqueda lineal: Busca un número dentro de un array e indica en qué posición está (o si no existe).
+
+
+🧩 Nivel 4 — Métodos / Funciones
+
+Métodos de calculadora: Crea métodos estáticos sumar(), restar(), multiplicar(), dividir() y úsalos desde el main.
+Factorial recursivo: Implementa el factorial de un número usando recursión.
+Fibonacci: Genera los primeros n números de la secuencia de Fibonacci (con y sin recursión).
+Palíndromo: Método que recibe un String y devuelve true si es palíndromo.
+Contar vocales: Método que recibe un String y devuelve cuántas vocales tiene.
+
+
+🧠 Nivel 5 — Reto integrador
+
+Menú de opciones: Crea un programa con un menú en consola que permita:
+
+
+Convertir temperatura (Celsius ↔ Fahrenheit)
+Verificar si un número es primo
+Calcular el factorial
+Salir
+El menú debe repetirse hasta que el usuario elija salir.
+
+
+Mini banco: Simula una cuenta bancaria con un array o variables. El usuario puede depositar, retirar, consultar saldo y ver historial de las últimas 5 operaciones.
